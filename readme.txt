@@ -1,5 +1,3 @@
-Created by iomatix.
-
 # Balanced Faster Construction - X4Foundations
 
 This mod rebalances station module construction in X4: Foundations by adjusting build times across all module types. The new timings are carefully tuned based on community feedback, my personal feeling, and reference data to provide a more streamlined, faster, and balanced station building experience.
@@ -72,3 +70,5 @@ The mod uses XML `<replace>` directives to update the build time values in the g
 Enjoy a more responsive and balanced station construction experience with these optimized build times!
 
 By downloading from Nexus you will support the author
+
+Created by iomatix.
