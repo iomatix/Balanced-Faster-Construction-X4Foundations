@@ -61,7 +61,7 @@ This mod rebalances station module construction in X4: Foundations by adjusting 
 
 ### Other Modules
 
-- All remaining modules—including venture platforms, welfare gambling halls, casinos, and scrapworks—now consistently build in **5 minutes**.
+- All remaining modules: including venture platforms, welfare gambling halls, casinos, and scrapworks now consistently build in **5 minutes**.
 
 ## How It Works
 
