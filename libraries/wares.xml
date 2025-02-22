@@ -80,20 +80,20 @@
     <replace sel="/wares/ware[@id='module_bor_def_disc_01']/production/@time">420</replace>
     <replace sel="/wares/ware[@id='module_bor_def_tube_01']/production/@time">420</replace>
     <!-- Docking Modules -->
-    <!-- 6 minutes -->
-    <replace sel="/wares/ware[@id='module_arg_dock_m_01']/production/@time">360</replace>
-    <replace sel="/wares/ware[@id='module_arg_dock_m_01_hightech']/production/@time">360</replace>
+    <!-- 6 minutes, 9 minutes, 13 minutes, 15 minutes -->
+    <replace sel="/wares/ware[@id='module_arg_dock_m_01']/production/@time">540</replace>
+    <replace sel="/wares/ware[@id='module_arg_dock_m_01_hightech']/production/@time">780</replace>
     <replace sel="/wares/ware[@id='module_arg_dock_m_01_lowtech']/production/@time">360</replace>
-    <replace sel="/wares/ware[@id='module_arg_dock_m_02']/production/@time">360</replace>
-    <replace sel="/wares/ware[@id='module_arg_dock_m_02_hightech']/production/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_arg_dock_m_02']/production/@time">540</replace>
+    <replace sel="/wares/ware[@id='module_arg_dock_m_02_hightech']/production/@time">780</replace>
     <replace sel="/wares/ware[@id='module_arg_dock_m_02_lowtech']/production/@time">360</replace>
-    <replace sel="/wares/ware[@id='module_arg_dock_tradestation_02']/production/@time">360</replace>
-    <replace sel="/wares/ware[@id='module_ter_dock_m_01_hightech']/production/@time">360</replace>
-    <replace sel="/wares/ware[@id='module_bor_dock_m_01_standard']/production/@time">360</replace>
-    <replace sel="/wares/ware[@id='module_gen_dock_m_venturer_01']/production[@method='default']/@time">360</replace>
-    <replace sel="/wares/ware[@id='module_gen_dock_m_venturer_01']/production[@method='terran']/@time">360</replace>
-    <replace sel="/wares/ware[@id='module_gen_dock_xl_venturer_01']/production[@method='default']/@time">360</replace>
-    <replace sel="/wares/ware[@id='module_gen_dock_xl_venturer_01']/production[@method='terran']/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_arg_dock_tradestation_02']/production/@time">540</replace>
+    <replace sel="/wares/ware[@id='module_ter_dock_m_01_hightech']/production/@time">780</replace>
+    <replace sel="/wares/ware[@id='module_bor_dock_m_01_standard']/production/@time">540</replace>
+    <replace sel="/wares/ware[@id='module_gen_dock_m_venturer_01']/production[@method='default']/@time">540</replace>
+    <replace sel="/wares/ware[@id='module_gen_dock_m_venturer_01']/production[@method='terran']/@time">540</replace>
+    <replace sel="/wares/ware[@id='module_gen_dock_xl_venturer_01']/production[@method='default']/@time">900</replace>
+    <replace sel="/wares/ware[@id='module_gen_dock_xl_venturer_01']/production[@method='terran']/@time">900</replace>
     <!-- Piers -->
     <!-- by size: 4 minutes, 8 minutes, 13 minutes, and 16 minutes -->
     <replace sel="/wares/ware[@id='module_arg_pier_l_01']/production/@time">240</replace>
