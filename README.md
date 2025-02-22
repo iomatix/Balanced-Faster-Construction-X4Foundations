@@ -1,4 +1,4 @@
-# Balanced-Faster-Construction-X4Foundations
+# Balanced Faster Construction - X4Foundations
 
 This mod rebalances station module construction in X4: Foundations by adjusting build times across all module types. The new timings are carefully tuned—based on community feedback, my personal feeling, and reference data—to provide a more streamlined, faster, and balanced station building experience.
 
