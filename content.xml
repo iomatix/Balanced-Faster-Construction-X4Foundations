@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="shortstationbuildtime" name="Short Station Build Time Rebalance" description="Short Station Build Time Rebalance" author="mayynak" version="1" date="2025-01-15" save="false" enabled="1">
+	<dependency id="ego_dlc_pirate" optional="true" />
+	<dependency id="ego_dlc_split" optional="true" />
+	<dependency id="ego_dlc_terran" optional="true" />
+	<dependency id="ego_dlc_boron" optional="true" />
+</content>
