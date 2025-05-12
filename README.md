@@ -68,3 +68,11 @@ This mod rebalances station module construction in X4: Foundations by adjusting 
 The mod uses XML `<replace>` directives to update the build time values in the game’s files. For example, all “Other” category modules have been set to 300 seconds (5 minutes), ensuring a uniform, faster build time across these components.
 
 Enjoy a more responsive and balanced station construction experience with these optimized build times!
+
+## Supporting Development
+
+My mods are **always free to use**.
+
+If you appreciate my work, you can support me by [buying me a coffee](https://buymeacoffee.com/iomatix).
+
+
