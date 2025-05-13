@@ -69,6 +69,12 @@ The mod uses XML `<replace>` directives to update the build time values in the g
 
 Enjoy a more responsive and balanced station construction experience with these optimized build times!
 
+## Contributions
+
+<a href="https://github.com/iomatix/Balanced-Faster-Construction-X4Foundations/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=iomatix/Balanced-Faster-Construction-X4Foundations" />
+</a>
+
 ## Supporting Development
 
 My mods are **always free to use**.
