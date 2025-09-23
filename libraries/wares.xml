@@ -1,170 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <diff>
     <!-- Connections -->
-    <!-- 3 minutes -->
-    <replace sel="/wares/ware[@id='module_arg_conn_base_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_arg_conn_base_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_arg_conn_base_03']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_arg_conn_cross_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_arg_conn_vertical_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_arg_conn_vertical_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_par_conn_base_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_par_conn_base_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_par_conn_base_03']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_par_conn_cross_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_par_conn_cross_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_par_conn_cross_03']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_par_conn_vertical_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_par_conn_vertical_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_tel_conn_base_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_tel_conn_base_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_tel_conn_base_03']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_tel_conn_cross_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_tel_conn_vertical_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_tel_conn_vertical_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_ter_conn_base_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_ter_conn_base_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_ter_conn_base_03']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_ter_conn_cross_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_ter_conn_vertical_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_ter_conn_vertical_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_spl_conn_base_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_spl_conn_base_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_spl_conn_base_03']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_spl_conn_cross_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_spl_conn_vertical_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_spl_conn_vertical_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_bor_conn_base_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_bor_conn_base_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_bor_conn_base_03']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_bor_conn_base_04']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_bor_conn_base_05']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_bor_conn_cross_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_bor_conn_cross_02']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_bor_conn_vertical_01']/production/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_bor_conn_vertical_02']/production/@time">180</replace>
-    <replace sel="//wares/ware[@id='module_conn_arg_antigonearc_01']/production[@method='default']/@time">180</replace>
-    <replace sel="//wares/ware[@id='module_conn_arg_antigonescaffolding_01']/production[@method='default']/@time">180</replace>
-    <replace sel="//wares/ware[@id='module_conn_arg_antigonestraight_01']/production[@method='default']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_gen_conn_venturerbase_01']/production[@method='default']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_gen_conn_venturerbase_01']/production[@method='terran']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_gen_conn_venturerbase_02']/production[@method='default']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_gen_conn_venturerbase_02']/production[@method='terran']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_gen_conn_venturerbase_03']/production[@method='default']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_gen_conn_venturerbase_03']/production[@method='terran']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_gen_conn_venturercross_01']/production[@method='default']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_gen_conn_venturercross_01']/production[@method='terran']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_gen_conn_venturervertical_01']/production[@method='default']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_gen_conn_venturervertical_01']/production[@method='terran']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_gen_conn_venturervertical_02']/production[@method='default']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_gen_conn_venturervertical_02']/production[@method='terran']/@time">180</replace>
+    <!-- 90 seconds -->
+    <replace sel="/wares/ware[@id='module_arg_conn_arc_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_arg_conn_base_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_arg_conn_base_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_arg_conn_base_03']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_arg_conn_cross_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_arg_conn_cross_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_arg_conn_cross_03']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_arg_conn_cross_04']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_arg_conn_cross_05']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_arg_conn_vertical_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_arg_conn_vertical_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_par_conn_base_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_par_conn_base_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_par_conn_base_03']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_par_conn_cross_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_par_conn_cross_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_par_conn_cross_03']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_par_conn_vertical_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_par_conn_vertical_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_tel_conn_base_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_tel_conn_base_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_tel_conn_base_03']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_tel_conn_cross_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_tel_conn_vertical_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_tel_conn_vertical_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_ter_conn_base_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_ter_conn_base_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_ter_conn_base_03']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_ter_conn_cross_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_ter_conn_vertical_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_ter_conn_vertical_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_spl_conn_base_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_spl_conn_base_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_spl_conn_base_03']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_spl_conn_cross_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_spl_conn_vertical_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_spl_conn_vertical_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_bor_conn_base_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_bor_conn_base_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_bor_conn_base_03']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_bor_conn_base_04']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_bor_conn_base_05']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_bor_conn_cross_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_bor_conn_cross_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_bor_conn_vertical_01']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_bor_conn_vertical_02']/production/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_venturerbase_01']/production[@method='default']/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_venturerbase_01']/production[@method='terran']/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_venturerbase_02']/production[@method='default']/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_venturerbase_02']/production[@method='terran']/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_venturerbase_03']/production[@method='default']/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_venturerbase_03']/production[@method='terran']/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_venturercross_01']/production[@method='default']/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_venturercross_01']/production[@method='terran']/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_venturervertical_01']/production[@method='default']/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_venturervertical_01']/production[@method='terran']/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_venturervertical_02']/production[@method='default']/@time">90</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_venturervertical_02']/production[@method='terran']/@time">90</replace>
+    <!-- Observation decks -->
+    <replace sel="/wares/ware[@id='module_gen_conn_observationdeck_01']/production[@method='default']/@time">95</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_observationdeck_02']/production[@method='default']/@time">115</replace>
+    <replace sel="/wares/ware[@id='module_gen_conn_observationdeck_03']/production[@method='default']/@time">130</replace>
     <!-- Defense -->
-    <!-- Claims 12 minutes, rest 7min -->
-    <replace sel="/wares/ware[@id='module_arg_def_claim_01']/production/@time">720</replace>
-    <replace sel="/wares/ware[@id='module_arg_def_disc_01']/production[@method='default']/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_arg_def_tube_01']/production[@method='default']/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_par_def_claim_01']/production/@time">720</replace>
-    <replace sel="/wares/ware[@id='module_par_def_claim_story_01']/production/@time">720</replace>
-    <replace sel="/wares/ware[@id='module_par_def_disc_01']/production/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_par_def_tube_01']/production/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_tel_def_claim_01']/production/@time">720</replace>
-    <replace sel="/wares/ware[@id='module_tel_def_disc_01']/production/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_tel_def_tube_01']/production/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_ter_def_claim_01']/production/@time">720</replace>
-    <replace sel="/wares/ware[@id='module_ter_def_disc_01']/production/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_ter_def_tube_01']/production/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_spl_def_claim_01']/production/@time">720</replace>
-    <replace sel="/wares/ware[@id='module_spl_def_disc_01']/production/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_spl_def_tube_01']/production/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_bor_def_claim_01']/production/@time">720</replace>
-    <replace sel="/wares/ware[@id='module_bor_def_disc_01']/production/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_bor_def_tube_01']/production/@time">420</replace>
+    <!-- Claims 8 minutes, rest 5min -->
+    <replace sel="/wares/ware[@id='module_arg_def_claim_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_arg_def_disc_01']/production[@method='default']/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_arg_def_tube_01']/production[@method='default']/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_par_def_claim_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_par_def_claim_story_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_par_def_disc_01']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_par_def_tube_01']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_tel_def_claim_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_tel_def_disc_01']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_tel_def_tube_01']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_ter_def_claim_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_ter_def_disc_01']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_ter_def_tube_01']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_spl_def_claim_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_spl_def_disc_01']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_spl_def_tube_01']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_bor_def_claim_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_bor_def_disc_01']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_bor_def_tube_01']/production/@time">300</replace>
     <!-- Docking Modules -->
-    <!-- 6 minutes, 9 minutes, 13 minutes, 15 minutes -->
-    <replace sel="/wares/ware[@id='module_arg_dock_m_01']/production/@time">540</replace>
-    <replace sel="/wares/ware[@id='module_arg_dock_m_01_hightech']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_arg_dock_m_01_lowtech']/production/@time">360</replace>
-    <replace sel="/wares/ware[@id='module_arg_dock_m_02']/production/@time">540</replace>
-    <replace sel="/wares/ware[@id='module_arg_dock_m_02_hightech']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_arg_dock_m_02_lowtech']/production/@time">360</replace>
-    <replace sel="/wares/ware[@id='module_arg_dock_tradestation_02']/production/@time">540</replace>
-    <replace sel="/wares/ware[@id='module_ter_dock_m_01_hightech']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_bor_dock_m_01_standard']/production/@time">540</replace>
-    <replace sel="/wares/ware[@id='module_gen_dock_m_venturer_01']/production[@method='default']/@time">540</replace>
-    <replace sel="/wares/ware[@id='module_gen_dock_m_venturer_01']/production[@method='terran']/@time">540</replace>
-    <replace sel="/wares/ware[@id='module_gen_dock_xl_venturer_01']/production[@method='default']/@time">900</replace>
-    <replace sel="/wares/ware[@id='module_gen_dock_xl_venturer_01']/production[@method='terran']/@time">900</replace>
-    <!-- Piers -->
-    <!-- by size: 4 minutes, 8 minutes, 13 minutes, and 16 minutes -->
-    <replace sel="/wares/ware[@id='module_arg_pier_l_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_arg_pier_l_02']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_arg_pier_l_03']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_par_pier_l_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_par_pier_l_02']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_par_pier_l_03']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_tel_pier_l_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_tel_pier_l_02']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_tel_pier_l_03']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_ter_pier_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_ter_pier_02']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_ter_pier_03']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_ter_pier_04']/production/@time">960</replace>
-    <replace sel="/wares/ware[@id='module_ter_pier_tradestation_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_spl_pier_l_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_spl_pier_l_02']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_spl_pier_l_03']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_bor_pier_l_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_bor_pier_l_02']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_bor_pier_l_03']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_bor_pier_l_04']/production/@time">960</replace>
-    <replace sel="/wares/ware[@id='module_bor_pier_tradestation_01']/production/@time">780</replace>
+    <!-- 4 minutes Low Tech, 6 minutes Normal, 7 minutes High Tech, 15 minutes XL + 60 seconds for "02" -->
+    <replace sel="/wares/ware[@id='module_arg_dock_m_01']/production/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_arg_dock_m_01_hightech']/production/@time">420</replace>
+    <replace sel="/wares/ware[@id='module_arg_dock_m_01_lowtech']/production/@time">240</replace>
+    <replace sel="/wares/ware[@id='module_arg_dock_m_02']/production/@time">420</replace>
+    <replace sel="/wares/ware[@id='module_arg_dock_m_02_hightech']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_arg_dock_m_02_lowtech']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_arg_dock_tradestation_02']/production/@time">420</replace>
+    <replace sel="/wares/ware[@id='module_ter_dock_m_01_hightech']/production/@time">420</replace>
+    <replace sel="/wares/ware[@id='module_bor_dock_m_01_standard']/production/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_gen_dock_m_venturer_01']/production[@method='default']/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_gen_dock_m_venturer_01']/production[@method='terran']/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_gen_dock_xl_venturer_01']/production[@method='default']/@time">720</replace>
+    <replace sel="/wares/ware[@id='module_gen_dock_xl_venturer_01']/production[@method='terran']/@time">720</replace>
     <!-- Habitat -->
-    <!-- by size: small 4 minutes, medium 8 minutes, large 13 minutes -->
-    <replace sel="/wares/ware[@id='module_arg_hab_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_arg_hab_m_01']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_arg_hab_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_par_hab_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_par_hab_m_01']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_par_hab_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_tel_hab_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_tel_hab_m_01']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_tel_hab_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_ter_hab_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_ter_hab_m_01']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_ter_hab_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_spl_hab_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_spl_hab_m_01']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_spl_hab_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_pir_hab_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_pir_hab_m_01']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_pir_hab_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_bor_hab_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_bor_hab_m_01']/production/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_bor_hab_s_01']/production/@time">240</replace>
-    <replace sel="//wares/ware[@id='module_hab_arg_antigonepillar_01']/production[@method='default']/@time">480</replace>
-    <replace sel="//wares/ware[@id='module_hab_arg_antigonespire_01']/production[@method='default']/@time">480</replace>
+    <!-- by size: small 3 minutes, medium 6 minutes, large 10 minutes -->
+    <replace sel="/wares/ware[@id='module_arg_hab_l_01']/production/@time">600</replace>
+    <replace sel="/wares/ware[@id='module_arg_hab_m_01']/production/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_arg_hab_s_01']/production/@time">180</replace>
+    <replace sel="/wares/ware[@id='module_par_hab_l_01']/production/@time">600</replace>
+    <replace sel="/wares/ware[@id='module_par_hab_m_01']/production/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_par_hab_s_01']/production/@time">180</replace>
+    <replace sel="/wares/ware[@id='module_tel_hab_l_01']/production/@time">600</replace>
+    <replace sel="/wares/ware[@id='module_tel_hab_m_01']/production/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_tel_hab_s_01']/production/@time">180</replace>
+    <replace sel="/wares/ware[@id='module_ter_hab_l_01']/production/@time">600</replace>
+    <replace sel="/wares/ware[@id='module_ter_hab_m_01']/production/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_ter_hab_s_01']/production/@time">180</replace>
+    <replace sel="/wares/ware[@id='module_spl_hab_l_01']/production/@time">600</replace>
+    <replace sel="/wares/ware[@id='module_spl_hab_m_01']/production/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_spl_hab_s_01']/production/@time">180</replace>
+    <replace sel="/wares/ware[@id='module_pir_hab_l_01']/production/@time">600</replace>
+    <replace sel="/wares/ware[@id='module_pir_hab_m_01']/production/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_pir_hab_s_01']/production/@time">180</replace>
+    <replace sel="/wares/ware[@id='module_bor_hab_l_01']/production/@time">600</replace>
+    <replace sel="/wares/ware[@id='module_bor_hab_m_01']/production/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_bor_hab_s_01']/production/@time">180</replace>
+    <!-- Piers -->
+    <!-- by size: 5 minutes, 8 minutes, 13 minutes -->
+    <replace sel="/wares/ware[@id='module_arg_pier_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_arg_pier_l_02']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_arg_pier_l_03']/production/@time">780</replace>
+    <replace sel="/wares/ware[@id='module_arg_pier_l_04']/production/@time">280</replace>
+    <replace sel="/wares/ware[@id='module_arg_pier_tradestation_01']/production/@time">360</replace>
+    <replace sel="/wares/ware[@id='module_par_pier_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_par_pier_l_02']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_par_pier_l_03']/production/@time">780</replace>
+    <replace sel="/wares/ware[@id='module_tel_pier_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_tel_pier_l_02']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_tel_pier_l_03']/production/@time">780</replace>
+    <replace sel="/wares/ware[@id='module_ter_pier_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_ter_pier_02']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_ter_pier_03']/production/@time">780</replace>
+    <replace sel="/wares/ware[@id='module_ter_pier_04']/production/@time">280</replace>
+    <replace sel="/wares/ware[@id='module_ter_pier_tradestation_01']/production/@time">780</replace>
+    <replace sel="/wares/ware[@id='module_spl_pier_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_spl_pier_l_02']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_spl_pier_l_03']/production/@time">780</replace>
+    <replace sel="/wares/ware[@id='module_bor_pier_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_bor_pier_l_02']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_bor_pier_l_03']/production/@time">780</replace>
+    <replace sel="/wares/ware[@id='module_bor_pier_l_04']/production/@time">280</replace>
+    <replace sel="/wares/ware[@id='module_bor_pier_tradestation_01']/production/@time">780</replace>
     <!-- Builder -->
-    <!-- by size: medium 7 minutes, large 13 minutes, extra large 18 minutes -->
+    <!-- by size: small 5 minutes, medium 7 minutes, large 11 minutes, extra large 14 minutes -->
     <replace sel="/wares/ware[@id='module_gen_build_dockarea_m_01']/production[@method='default']/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_gen_build_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_gen_build_xl_01']/production/@time">1080</replace>
+    <replace sel="/wares/ware[@id='module_gen_build_dockarea_m_01']/production[@method='xenon']/@time">460</replace>
+    <replace sel="/wares/ware[@id='module_gen_build_s_01']/production/@time">300</replace>
+    <replace sel="/wares/ware[@id='module_gen_build_m_01']/production/@time">420</replace>
+    <replace sel="/wares/ware[@id='module_gen_build_l_01']/production/@time">660</replace>
+    <replace sel="/wares/ware[@id='module_gen_build_xl_01']/production/@time">840</replace>
     <replace sel="/wares/ware[@id='module_ter_build_dockarea_m_01']/production[@method='default']/@time">420</replace>
     <replace sel="/wares/ware[@id='module_ter_build_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_ter_build_xl_01']/production/@time">1080</replace>
+    <replace sel="/wares/ware[@id='module_ter_build_xl_01']/production/@time">840</replace>
     <replace sel="/wares/ware[@id='module_bor_build_dockarea_m_01']/production[@method='default']/@time">420</replace>
     <replace sel="/wares/ware[@id='module_bor_build_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_bor_build_xl_01']/production/@time">1080</replace>
+    <replace sel="/wares/ware[@id='module_bor_build_xl_01']/production/@time">840</replace>
     <!-- Equipment -->
-    <!-- by size: medium 7 minutes, large 13 minutes, extra large 18 minutes -->
-    <replace sel="/wares/ware[@id='module_gen_equip_dockarea_m_01']/production/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_gen_equip_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_gen_equip_xl_01']/production/@time">1080</replace>
-    <replace sel="/wares/ware[@id='module_ter_equip_dockarea_m_01']/production/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_ter_equip_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_ter_equip_xl_01']/production/@time">1080</replace>
-    <replace sel="/wares/ware[@id='module_bor_equip_dockarea_m_01']/production/@time">420</replace>
-    <replace sel="/wares/ware[@id='module_bor_equip_l_01']/production/@time">780</replace>
-    <replace sel="/wares/ware[@id='module_bor_equip_xl_01']/production/@time">1080</replace>
+    <!-- by type: default L 5 minutes, default XL 7 mintues, dockarea 8 minutes-->
+    <replace sel="/wares/ware[@id='module_gen_equip_dockarea_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_gen_equip_l_01']/production/@time">320</replace>
+    <replace sel="/wares/ware[@id='module_gen_equip_xl_01']/production/@time">420</replace>
+    <replace sel="/wares/ware[@id='module_ter_equip_dockarea_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_ter_equip_l_01']/production/@time">320</replace>
+    <replace sel="/wares/ware[@id='module_ter_equip_xl_01']/production/@time">420</replace>
+    <replace sel="/wares/ware[@id='module_bor_equip_dockarea_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_bor_equip_l_01']/production/@time">320</replace>
+    <replace sel="/wares/ware[@id='module_bor_equip_xl_01']/production/@time">420</replace>
     <!-- Production -->
     <!-- tiered from this website https://x4prodchart.com/  3min 8min 12min by tier -->
     <replace sel="/wares/ware[@id='module_arg_prod_foodrations_01']/production/@time">720</replace>
@@ -230,71 +239,97 @@
     <replace sel="/wares/ware[@id='module_gen_prod_water_01']/production/@time">180</replace>
     <replace sel="/wares/ware[@id='module_gen_prod_weaponcomponents_01']/production/@time">720</replace>
     <!-- Storage -->
-    <!-- by size 4min 8min 10 min -->
-    <replace sel="/wares/ware[@id='module_arg_stor_container_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_arg_stor_container_m_01']/production/@time">480</replace>
+    <!-- by size 4min 6min 8 min -->
+    <replace sel="/wares/ware[@id='module_arg_stor_container_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_arg_stor_container_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_arg_stor_container_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_arg_stor_liquid_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_arg_stor_liquid_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_arg_stor_liquid_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_arg_stor_liquid_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_arg_stor_liquid_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_arg_stor_solid_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_arg_stor_solid_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_arg_stor_solid_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_arg_stor_solid_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_arg_stor_solid_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_par_stor_container_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_par_stor_container_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_arg_stor_tradestation_l_01']/production/@time">540</replace>
+    <replace sel="/wares/ware[@id='module_par_stor_container_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_par_stor_container_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_par_stor_container_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_par_stor_liquid_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_par_stor_liquid_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_par_stor_liquid_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_par_stor_liquid_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_par_stor_liquid_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_par_stor_solid_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_par_stor_solid_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_par_stor_solid_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_par_stor_solid_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_par_stor_solid_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_tel_stor_container_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_tel_stor_container_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_tel_stor_container_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_tel_stor_container_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_tel_stor_container_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_tel_stor_liquid_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_tel_stor_liquid_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_tel_stor_liquid_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_tel_stor_liquid_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_tel_stor_liquid_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_tel_stor_solid_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_tel_stor_solid_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_tel_stor_solid_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_tel_stor_solid_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_tel_stor_solid_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_ter_stor_container_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_ter_stor_container_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_ter_stor_container_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_ter_stor_container_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_ter_stor_container_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_ter_stor_liquid_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_ter_stor_liquid_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_ter_stor_liquid_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_ter_stor_liquid_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_ter_stor_liquid_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_ter_stor_solid_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_ter_stor_solid_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_ter_stor_solid_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_ter_stor_solid_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_ter_stor_solid_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_spl_stor_container_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_spl_stor_container_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_spl_stor_container_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_spl_stor_container_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_spl_stor_container_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_spl_stor_liquid_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_spl_stor_liquid_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_spl_stor_liquid_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_spl_stor_liquid_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_spl_stor_liquid_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_spl_stor_solid_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_spl_stor_solid_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_spl_stor_solid_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_spl_stor_solid_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_spl_stor_solid_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_pir_stor_condensate_l_01']/production/@time">600</replace>
+    <replace sel="/wares/ware[@id='module_pir_stor_condensate_l_01']/production/@time">480</replace>
     <replace sel="/wares/ware[@id='module_pir_stor_condensate_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_bor_stor_container_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_bor_stor_container_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_bor_stor_container_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_bor_stor_container_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_bor_stor_container_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_bor_stor_liquid_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_bor_stor_liquid_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_bor_stor_liquid_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_bor_stor_liquid_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_bor_stor_liquid_s_01']/production/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_bor_stor_solid_l_01']/production/@time">600</replace>
-    <replace sel="/wares/ware[@id='module_bor_stor_solid_m_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_bor_stor_solid_l_01']/production/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_bor_stor_solid_m_01']/production/@time">360</replace>
     <replace sel="/wares/ware[@id='module_bor_stor_solid_s_01']/production/@time">240</replace>
     <!-- Other -->
-    <!-- All 5 min -->
-    <replace sel="/wares/ware[@id='module_gen_ventureplatform_cross_01']/production[@method='default']/@time">300</replace>
-    <replace sel="/wares/ware[@id='module_gen_ventureplatform_cross_01']/production[@method='terran']/@time">300</replace>
-    <replace sel="/wares/ware[@id='module_gen_welfare_gamblinghall_01']/production[@method='default']/@time">300</replace>
-    <replace sel="/wares/ware[@id='module_gen_welfare_gamblinghall_01']/production[@method='terran']/@time">300</replace>
-    <replace sel="/wares/ware[@id='module_gen_welfare_casino_01']/production[@method='default']/@time">300</replace>
-    <replace sel="/wares/ware[@id='module_gen_welfare_casino_01']/production[@method='terran']/@time">300</replace>
-    <replace sel="/wares/ware[@id='module_gen_proc_scrapworks']/production[@method='default']/@time">300</replace>
-    <replace sel="/wares/ware[@id='module_gen_proc_scrapworks']/production[@method='terran']/@time">300</replace>
+    <!-- All 4 min -->
+    <replace sel="/wares/ware[@id='module_gen_ventureplatform_cross_01']/production[@method='default']/@time">240</replace>
+    <replace sel="/wares/ware[@id='module_gen_ventureplatform_cross_01']/production[@method='terran']/@time">240</replace>
+    <replace sel="/wares/ware[@id='module_gen_welfare_gamblinghall_01']/production[@method='default']/@time">240</replace>
+    <replace sel="/wares/ware[@id='module_gen_welfare_casino_01']/production[@method='default']/@time">240</replace>
+    <replace sel="/wares/ware[@id='module_gen_proc_scrapworks']/production[@method='default']/@time">240</replace>
+    <replace sel="/wares/ware[@id='module_gen_proc_scrapworks']/production[@method='terran']/@time">240</replace>
+    <replace sel="/wares/ware[@id='module_arg_radar_dish_01']/production[@method='default']/@time">240</replace>
+    
+
+    <!-- Production wares 15% cut -->
+    <replace sel="/wares/ware[@id='advancedcomposites']/production[@method'default']/@time">255</replace>
+    <replace sel="/wares/ware[@id='advancedcomposites']/production[@method'teladi']/@time">255</replace>
+    <replace sel="/wares/ware[@id='advancedelectronics']/production[@method'default']/@time">612</replace>
+    <replace sel="/wares/ware[@id='antimattercells']/production[@method'default']/@time">102</replace>
+    <replace sel="/wares/ware[@id='antimatterconverters']/production[@method'default']/@time">255</replace>
+    <replace sel="/wares/ware[@id='claytronics']/production[@method'default']/@time">765</replace>
+    <replace sel="/wares/ware[@id='claytronics']/production[@method'recycling']/@time">255</replace>
+    <replace sel="/wares/ware[@id='dronecomponents']/production[@method'default']/@time">1020</replace>
+    <replace sel="/wares/ware[@id='energycells']/production[@method'default']/@time">50</replace>
+    <replace sel="/wares/ware[@id='engineparts']/production[@method'default']/@time">765</replace>
+    <replace sel="/wares/ware[@id='engineparts']/production[@method'teladi']/@time">765</replace>
+    <replace sel="/wares/ware[@id='fieldcoils']/production[@method'default']/@time">510</replace>
+    <replace sel="/wares/ware[@id='foodrations']/production[@method'default']/@time">204</replace>
+    <replace sel="/wares/ware[@id='graphene']/production[@method'default']/@time">204</replace>
+    <replace sel="/wares/ware[@id='hullparts']/production[@method'default']/@time">765</replace>
+    <replace sel="/wares/ware[@id='hullparts']/production[@method'recycling']/@time">255</replace>
+    <replace sel="/wares/ware[@id='hullparts']/production[@method'teladi']/@time">765</replace>
+    <replace sel="/wares/ware[@id='majadust']/production[@method'default']/@time">510</replace>
+    <replace sel="/wares/ware[@id='majasnails']/production[@method'default']/@time">382</replace>
+    <replace sel="/wares/ware[@id='meat']/production[@method'default']/@time">382</replace>
+    <replace sel="/wares/ware[@id='medicalsupplies']/production[@method'default']/@time">255</replace>
+    <replace sel="/wares/ware[@id='microchips']/production[@method'default']/@time">510</replace>
+    <replace sel="/wares/ware[@id='missilecomponents']/production[@method'default']/@time">765</replace>
 </diff>
