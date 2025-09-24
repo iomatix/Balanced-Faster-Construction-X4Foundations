@@ -47,7 +47,7 @@ This mod rebalances station module construction in X4: Foundations by adjusting 
 
 - Similar scaling as Builder modules:
   - **5 minutes** for default L
-  - **7 minutes** for default XL
+  - **9 minutes** for default XL
   - **8 minutes** for dockarea
 
 ### Production Modules
