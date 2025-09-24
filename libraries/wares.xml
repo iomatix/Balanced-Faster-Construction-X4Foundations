@@ -221,18 +221,6 @@
     <replace sel="/wares/ware[@id='module_tel_prod_sunriseflowers_01']/production[@method='default']/@time">480</replace>
     <replace sel="/wares/ware[@id='module_tel_prod_swampplant_01']/production[@method='default']/@time">480</replace>
     <replace sel="/wares/ware[@id='module_tel_prod_teladianium_01']/production[@method='default']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_ter_prod_computronicsubstrate_01']/production[@method='default']/@time">720</replace>
-    <replace sel="/wares/ware[@id='module_ter_prod_energycells_01']/production[@method='default']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_ter_prod_medicalsupplies_01']/production[@method='default']/@time">720</replace>
-    <replace sel="/wares/ware[@id='module_ter_prod_metallicmicrolattice_01']/production[@method='default']/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_ter_prod_proteinpaste_01']/production[@method='default']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_ter_prod_scrap_recycler']/production[@method='default']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_ter_prod_siliconcarbide_01']/production[@method='default']/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_ter_prod_stimulants_01']/production[@method='default']/@time">180</replace>
-    <replace sel="/wares/ware[@id='module_ter_prod_terranmre_01']/production[@method='default']/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_spl_prod_cheltmeat_01']/production[@method='default']/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_spl_prod_medicalsupplies_01']/production[@method='default']/@time">720</replace>
-    <replace sel="/wares/ware[@id='module_spl_prod_scruffinfruits_01']/production[@method='default']/@time">480</replace>
     <replace sel="/wares/ware[@id='module_gen_prod_advancedcomposites_01']/production[@method='default']/@time">480</replace>
     <replace sel="/wares/ware[@id='module_gen_prod_advancedelectronics_01']/production[@method='default']/@time">720</replace>
     <replace sel="/wares/ware[@id='module_gen_prod_antimattercells_01']/production[@method='default']/@time">180</replace>
@@ -259,6 +247,20 @@
     <replace sel="/wares/ware[@id='module_gen_prod_turretcomponents_01']/production[@method='default']/@time">720</replace>
     <replace sel="/wares/ware[@id='module_gen_prod_water_01']/production[@method='default']/@time">180</replace>
     <replace sel="/wares/ware[@id='module_gen_prod_weaponcomponents_01']/production[@method='default']/@time">720</replace>
+    <!-- Terrans -->
+    <replace sel="/wares/ware[@id='module_ter_prod_computronicsubstrate_01']/production[@method='default']/@time">720</replace>
+    <replace sel="/wares/ware[@id='module_ter_prod_energycells_01']/production[@method='default']/@time">180</replace>
+    <replace sel="/wares/ware[@id='module_ter_prod_medicalsupplies_01']/production[@method='default']/@time">720</replace>
+    <replace sel="/wares/ware[@id='module_ter_prod_metallicmicrolattice_01']/production[@method='default']/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_ter_prod_proteinpaste_01']/production[@method='default']/@time">180</replace>
+    <replace sel="/wares/ware[@id='module_ter_prod_scrap_recycler']/production[@method='default']/@time">180</replace>
+    <replace sel="/wares/ware[@id='module_ter_prod_siliconcarbide_01']/production[@method='default']/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_ter_prod_stimulants_01']/production[@method='default']/@time">180</replace>
+    <replace sel="/wares/ware[@id='module_ter_prod_terranmre_01']/production[@method='default']/@time">480</replace>
+    <!-- Splits -->
+    <replace sel="/wares/ware[@id='module_spl_prod_cheltmeat_01']/production[@method='default']/@time">480</replace>
+    <replace sel="/wares/ware[@id='module_spl_prod_medicalsupplies_01']/production[@method='default']/@time">720</replace>
+    <replace sel="/wares/ware[@id='module_spl_prod_scruffinfruits_01']/production[@method='default']/@time">480</replace>
     <!-- Borons -->
     <replace sel="/wares/ware[@id='module_bor_prod_bofu_01']/production[@method='default']/@time">720</replace>
     <replace sel="/wares/ware[@id='module_bor_prod_bogas_01']/production[@method='default']/@time">480</replace>
@@ -296,6 +298,7 @@
     <replace sel="/wares/ware[@id='module_tel_stor_solid_l_01']/production[@method='default']/@time">480</replace>
     <replace sel="/wares/ware[@id='module_tel_stor_solid_m_01']/production[@method='default']/@time">360</replace>
     <replace sel="/wares/ware[@id='module_tel_stor_solid_s_01']/production[@method='default']/@time">240</replace>
+    <!-- Terrans -->
     <replace sel="/wares/ware[@id='module_ter_stor_container_l_01']/production[@method='default']/@time">480</replace>
     <replace sel="/wares/ware[@id='module_ter_stor_container_m_01']/production[@method='default']/@time">360</replace>
     <replace sel="/wares/ware[@id='module_ter_stor_container_s_01']/production[@method='default']/@time">240</replace>
@@ -305,6 +308,7 @@
     <replace sel="/wares/ware[@id='module_ter_stor_solid_l_01']/production[@method='default']/@time">480</replace>
     <replace sel="/wares/ware[@id='module_ter_stor_solid_m_01']/production[@method='default']/@time">360</replace>
     <replace sel="/wares/ware[@id='module_ter_stor_solid_s_01']/production[@method='default']/@time">240</replace>
+    <!-- Splits -->
     <replace sel="/wares/ware[@id='module_spl_stor_container_l_01']/production[@method='default']/@time">480</replace>
     <replace sel="/wares/ware[@id='module_spl_stor_container_m_01']/production[@method='default']/@time">360</replace>
     <replace sel="/wares/ware[@id='module_spl_stor_container_s_01']/production[@method='default']/@time">240</replace>
@@ -314,8 +318,6 @@
     <replace sel="/wares/ware[@id='module_spl_stor_solid_l_01']/production[@method='default']/@time">480</replace>
     <replace sel="/wares/ware[@id='module_spl_stor_solid_m_01']/production[@method='default']/@time">360</replace>
     <replace sel="/wares/ware[@id='module_spl_stor_solid_s_01']/production[@method='default']/@time">240</replace>
-    <replace sel="/wares/ware[@id='module_pir_stor_condensate_l_01']/production[@method='default']/@time">480</replace>
-    <replace sel="/wares/ware[@id='module_pir_stor_condensate_s_01']/production[@method='default']/@time">240</replace>
     <!-- Pirates -->
     <replace sel="/wares/ware[@id='module_pir_stor_condensate_l_01']/production[@method='default']/@time">875</replace>
     <replace sel="/wares/ware[@id='module_pir_stor_condensate_s_01']/production[@method='default']/@time">270</replace>
