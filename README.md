@@ -76,9 +76,13 @@ This mod rebalances station module construction in X4: Foundations by adjusting 
 
 - All units are generated **20% faster**.
 
+### Pirate Modules 
+
+- All Pirate modules take around **75%** of the vanilla build time.
+
 ### Xenon Modules 
 
-- All modules take around **75%** of the vanilla build time.
+- All Xenon modules take around **75%** of the vanilla build time.
 
 ## How It Works
 
