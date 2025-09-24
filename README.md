@@ -72,6 +72,14 @@ This mod rebalances station module construction in X4: Foundations by adjusting 
 
 - All resources are generated **15% faster**.
 
+### Workunits Production
+
+- All units are generated **20% faster**.
+
+### Xenon Modules 
+
+- All modules take around **75%** of the vanilla build time.
+
 ## How It Works
 
 The mod uses XML `<replace>` directives to update the build time values in the game’s files. For example, all “Other” category modules have been set to 300 seconds (5 minutes), ensuring a uniform, faster build time across these components.
