@@ -52,10 +52,10 @@ This mod rebalances station module construction in X4: Foundations by adjusting 
 
 ### Production Modules
 
-- Production modules are tiered (per data from [x4prodchart.com](https://x4prodchart.com/)):
-  - **3 minutes** for the fastest tier
-  - **8 minutes** for the mid tier
-  - **12 minutes** for the slowest
+- Adjusted by tier (per data from [x4prodchart.com](https://x4prodchart.com/)):
+  - **3 minutes** for the 1st tier
+  - **8 minutes** for the 2nd tier
+  - **12 minutes** for the 3rd tier
 
 ### Storage Modules
 
